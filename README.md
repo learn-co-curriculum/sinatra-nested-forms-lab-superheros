@@ -1,8 +1,14 @@
+---
+  tags: sinatra, forms, nested params, intermediate
+  langauges: ruby
+  resources: 4
+---
+
 # Superheroes!
 
 ## Description
 
-In this lab, you'll practice building nested forms in Sinatra for creating teams of superheros. No database is required, but feel free to add persistence *after* you have successfully completed the instructions below.
+In this lab, you'll practice building nested forms in Sinatra for creating teams of superheros. No database is rejquired, but feel free to add persistence *after* you have successfully completed the instructions below.
 
 ## Instructions
 
