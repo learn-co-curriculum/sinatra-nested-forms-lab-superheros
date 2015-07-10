@@ -1,3 +1,9 @@
+---
+  tags: sinatra, forms, nested params, intermediate
+  langauges: ruby
+  resources: 4
+---
+
 # Superheroes!
 
 ## Description
